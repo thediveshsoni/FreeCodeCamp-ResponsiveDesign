@@ -1,7 +1,7 @@
 # FreeCodeCamp-ResponsiveDesign
 Solutions to Responsive Web Design Certification of FreeCodeCamp
 
-<b>Responsive Web Design Certification</b>
+<strong>Responsive Web Design Certification Curriculum</strong>
 1. Basic HTML and HTML5
 2. Basic CSS
 3. Applied Visual Design
